@@ -71,7 +71,7 @@
         </div>
         <h2>Suraj is a smart, talented, and successful DevOps Engineer</h2>
         <div class="devops-image">
-            <img src="images/devops-workflow.jpg" alt="DevOps Workflow Image" style="max-width: 100%; height: auto;">
+            <img src="images/devops.jpg" alt="DevOps Workflow Image" style="max-width: 100%; height: auto;">
 
         </div>
     </section>
