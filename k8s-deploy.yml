@@ -18,7 +18,7 @@ spec:
   spec: 
     containers:
     - name: mavenwebappcontainer
-      image: surajit
+      image: sushila91/surajit:latest
       imagePullPolicy: Always
       ports:
       - containerPort: 8080
