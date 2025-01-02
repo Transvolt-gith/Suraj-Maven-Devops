@@ -70,6 +70,7 @@
             <p><strong>Our Office Location:</strong> Nagpur, Maharashtra</p>
         </div>
         <h2>Suraj is a smart, talented, and successful DevOps Engineer</h2>
+        <h2>Suraj will become one of the most highest paying DevOps Engineer in the Market</h2>
         <div class="devops-image">
             <img src="images/devops.jpg" alt="DevOps Workflow Image" style="max-width: 100%; height: auto;">
 
