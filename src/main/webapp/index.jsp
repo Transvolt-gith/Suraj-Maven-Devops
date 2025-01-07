@@ -62,7 +62,7 @@
     </header>
 
     <section>
-        <p><a href="https://ashokitech.com/online-training-schedules" target="_blank">Click Here To See Ashok IT Training Schedules</a></p>
+        
         <div class="contact">
             <p><strong>Call Us:</strong> +91-9021998670 / +91-9146861626</p>
         </div>
