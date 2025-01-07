@@ -58,7 +58,7 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to Suraj-DevOps IT - Software Training Institute</h1>
+        <h1>Welcome to Suraj-DevOps IT - Software Training Institute, Nagpur</h1>
     </header>
 
     <section>
