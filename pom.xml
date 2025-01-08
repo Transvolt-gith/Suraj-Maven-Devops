@@ -5,7 +5,7 @@
   <artifactId>suraj-maven-web-app</artifactId>
   <packaging>war</packaging>
   <version>3.0-RELEASE</version>
-  <name>01-maven-web-app</name>
+  <name>suraj-maven-web-app</name>
   <url>http://maven.apache.org</url>
  
   <dependencies>
